@@ -1,0 +1,36 @@
+.copy_right_footer {
+    position: fixed;
+    color: #0177de;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: yellow;
+    line-height: 1.5;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(10, 130, 12);
+}
+
+body {
+    background: linear-gradient(#32f207 0%, #05f3f7 50%, #f7f705 100%);
+    font-family: 'Pacifico', cursive;
+}
+
+.header_div {
+    background: linear-gradient(#e6f205 0%, #f002d0 100%);
+    color: white;
+}
+
+.header_div p {
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+   margin-top:30px; 
+   width:130px;
+   font-weight:bolder;
+   letter-spacing: 3px;
+   background:yellow;
+   color:black;
+}
